@@ -19,7 +19,7 @@
 
 - [Floriano](link_para_github)
 
-- [Eduardo](link_para_github)  
+- [Eduardo](https://github.com/eduzindejesus)  
 
 - [Celso](link_para_github)  
 
