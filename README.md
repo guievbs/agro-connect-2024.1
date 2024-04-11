@@ -13,7 +13,7 @@
 
 - [Matheus Marinho](link_para_github)
  
-- [Diego Otani](link_para_github)  
+- [Diego Otani](https://github.com/DiegoOtani)  
 
 - [João Buczora](link_para_github)  
 
