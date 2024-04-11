@@ -39,5 +39,5 @@ O objetivo principal do projeto é desenvolver um protótipo de alta fidelidade,
 
 ## Documentos no Repositório
 
-- [Requisitos Funcionais](https://github.com/guievbs/Agro-Connect-2024.1/blob/main/Requisitos%20de%20Usu%C3%A1rio/rf.md)
-- [Requisitos Não Funcionais](https://github.com/guievbs/Agro-Connect-2024.1/blob/main/Requisitos%20de%20Usu%C3%A1rio/rnf.md)
+- [Requisitos Funcionais](https://github.com/guievbs/agro-connect-2024.1/blob/main/Requisitos%20de%20Usu%C3%A1rio/rf.md)
+- [Requisitos Não Funcionais](https://github.com/guievbs/agro-connect-2024.1/blob/main/Requisitos%20de%20Usu%C3%A1rio/rnf.md)
