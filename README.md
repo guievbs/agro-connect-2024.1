@@ -17,7 +17,7 @@
 
 - [João Buczora](link_para_github)  
 
-- [Floriano](link_para_github)
+- [Floriano](https://github.com/gabrielflorianoo)
 
 - [Eduardo](https://github.com/eduzindejesus)  
 
