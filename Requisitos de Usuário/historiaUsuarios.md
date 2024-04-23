@@ -31,15 +31,15 @@ A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
         <!-- Linha começa aqui -->
         <tr>
             <td>US02</td>
-            <td>Historia do usuario vem aqui</td>
+            <td>Como usuário, quero ser capaz de criar mimnha conta de forma rápida e simples</td>
             <td>
                 <ol>
-                    <li>Criterios aqui</li>
-                    <li>Criterios aqui</li>
+                    <li>Os usuários devem ter a opção de criar uma conta ou fazer login utilizando suas contas nas redes sociais mais utilizadas, (i.e: Google, Linkedin e Instagram)</li>
+                    <li>As etapas devem ser revisadas para garantir que não haja campos desnecessários ou confusões que possam dificultar o registro</li>
                 </ol>
             </td>
-            <td>Prioridade</td>
-            <td>Requisito</td>
+            <td>Alta</td>
+            <td>RF03 e RNF03</td>
         </tr>
         <!-- Linha Termina aqui -->
         <!-- Linha começa aqui -->
