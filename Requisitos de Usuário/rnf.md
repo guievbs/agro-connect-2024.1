@@ -5,7 +5,7 @@
 | ID   |                                 Requisito NF                              | Categoria/Tipo | Prioridade | Requisitos Relacionados |
 | :--: | :-----------------------------------------------------------------------: |:-------------: | :--------: | :-----------------: |
 | RF01 |  O usuário deve ser capaz de limpar os filtros de pesquisa, se preferir. | Produto/Usabilidade | Média  | - |
-| RF02 | O Filtro deve ser mantido, mesmo que o site/aplicativo seja recarregado. | Produto/eficiência  | Alta | - |
+| RF02 | O Filtro deve ser mantido, mesmo que o site/aplicativo seja recarregado. | Produto/Eficiência  | Alta | - |
 | RF03 |  |  |  | |
 
 <div style="text-align: center">
