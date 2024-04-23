@@ -7,7 +7,7 @@
 | RF01 | O usuário deve poder filtrar o resultado por região, produto, cidade, e/ou estado.      |    Alta    |            -            |
 | RF02 | O Usuário deve ter a capacidade de enviar correções e/ou sugestões para os developers.  |    Média   |            -            |
 | RF03 |                 O usuário deve poder acessar seu nível no jogo.                         |    Baixa   |            -            |
-| RF04 |                                                                                         |            |                         |
+| RF04 | O usuário deve poder configurar alertas personalizados para commodities específicas.    |    Média   |            -            |
 | RF05 |                                                                                         |            |                         |
 | RF06 |                                                                                         |            |                         |
 
