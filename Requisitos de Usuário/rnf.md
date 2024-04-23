@@ -2,11 +2,36 @@
 
 <p align="justify">A <i>Tabela 2</i> a seguir contém os <b>Requisitos Não Funcionais (RNF)</b> elicitados utilizando a técnica de Brainstorm .</p>
 
-| ID   |                                 Requisito NF                              | Categoria/Tipo | Prioridade | Requisitos Relacionados |
-| :--: | :-----------------------------------------------------------------------: |:-------------: | :--------: | :-----------------: |
-| RF01 |  O usuário deve ser capaz de limpar os filtros de pesquisa, se preferir. | Produto/Usabilidade | Média  | - |
-| RF02 | O Filtro deve ser mantido, mesmo que o site/aplicativo seja recarregado. | Produto/Eficiência  | Alta | - |
-| RF03 |  |  |  | |
+<table>
+    <tr>
+        <td>ID</td>
+        <td>Requisito NF</td>
+        <td>Categoria/Tipo</td>
+        <td>Prioridade</td>
+        <td>Requisitos Relacionados</td>
+    </tr>
+    <tr>
+        <td>RF01</td>
+        <td>O usuário deve ser capaz de limpar os filtros de pesquisa, se preferir.</td>
+        <td>Produto/Usabilidade</td>
+        <td>Média</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>RF02</td>
+        <td>O Filtro deve ser mantido, mesmo que o site/aplicativo seja recarregado.</td>
+        <td>Produto/Eficiência</td>
+        <td>Alta</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>RF03</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
 
 <div style="text-align: center">
 <p>Tabela 2: Requisitos Não Funcionais</p>
