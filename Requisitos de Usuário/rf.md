@@ -63,7 +63,7 @@
   <!-- Linha começa aqui -->
    <tr>
     <td>RF09</td>
-    <td>O usuário deve ter a opção de entrar em contato com a equipe de suporte por e-mail.</td>
+    <td>O usuário deve ter a opção de entrar em contato com a equipe de desenvolvedores por e-mail.</td>
     <td>Média</td>
     <td>RF02</td>
   </tr>
