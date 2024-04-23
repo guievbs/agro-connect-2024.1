@@ -63,9 +63,9 @@
   <!-- Linha começa aqui -->
    <tr>
     <td>RF09</td>
-    <td>Seu Requisito vai aqui</td>
-    <td>A prioridade do requisito vai aqui</td>
-    <td> se o requisito for relancionado a outro coloque aqui se não, deixe com um traço (-) </td>
+    <td>O usuário deve ter a opção de entrar em contato com a equipe de suporte por e-mail.</td>
+    <td>Média</td>
+    <td>RF02</td>
   </tr>
   <!-- Linha termina aqui -->
  
