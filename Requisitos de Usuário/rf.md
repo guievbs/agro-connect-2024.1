@@ -1,6 +1,6 @@
 # 1. Requisitos Funcionais
 
-<p align="justify">A <i>Tabela 1</i> a seguir contém os Requisitos Funcionais (RF) elicitados utizando a técnica de Brainstorm.</p>
+<p align="justify">A <i>Tabela 1</i> a seguir contém os Requisitos Funcionais (RF) elicitados utilizando a técnica de Brainstorm.</p>
 
 <table>
   <tr>
