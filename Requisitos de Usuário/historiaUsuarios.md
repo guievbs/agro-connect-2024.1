@@ -1,0 +1,110 @@
+# 1. História de Usuário
+
+A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas. 
+
+<table>
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>História de Usuário</th>
+            <th>Critérios de aceitação</th>
+            <th>Prioridade</th>
+            <th>RF/RNF relacionado</th>
+        </tr>
+    </thead>
+    <tbody>
+        <!-- Linha começa aqui -->
+        <tr>
+            <td>US01</td>
+            <td>Como usuário, quero poder marcar commodities como favoritas para que eu possa acessá-las rapidamente quando necessário</td>
+            <td>
+                <ol>
+                    <li>Opção de remover commodities da minha lista de favoritos caso não sejam mais relevantes para mim.</li>
+                    <li>Marcar notícias importantes como favoritas para que eu possa referenciá-las facilmente mais tarde</li>
+                    <li>Receber notificações ou alertas quando uma das minhas commodities favoritas tiver uma mudança significativa em seu preço ou status</li>
+                </ol>
+            </td>
+            <td>Alta</td>
+            <td>RF04, RF05, RF06</td>
+        </tr>
+        <!-- Linha Termina aqui -->
+        <!-- Linha começa aqui -->
+        <tr>
+            <td>US02</td>
+            <td>Historia do usuario vem aqui</td>
+            <td>
+                <ol>
+                    <li>Criterios aqui</li>
+                    <li>Criterios aqui</li>
+                </ol>
+            </td>
+            <td>Prioridade</td>
+            <td>Requisito</td>
+        </tr>
+        <!-- Linha Termina aqui -->
+        <!-- Linha começa aqui -->
+        <tr>
+            <td>US03</td>
+            <td>Historia do usuario vem aqui</td>
+            <td>
+                <ol>
+                    <li>Criterios aqui</li>
+                    <li>Criterios aqui</li>
+                </ol>
+            </td>
+            <td>Prioridade</td>
+            <td>Requisito</td>
+        </tr>
+        <!-- Linha Termina aqui -->
+      <!-- Linha começa aqui -->
+        <tr>
+            <td>US04</td>
+            <td>Historia do usuario vem aqui</td>
+            <td>
+                <ol>
+                    <li>Criterios aqui</li>
+                    <li>Criterios aqui</li>
+                </ol>
+            </td>
+            <td>Prioridade</td>
+            <td>Requisito</td>
+        </tr>
+        <!-- Linha Termina aqui -->
+      <!-- Linha começa aqui -->
+        <tr>
+            <td>US05</td>
+            <td>Historia do usuario vem aqui</td>
+            <td>
+                <ol>
+                    <li>Criterios aqui</li>
+                    <li>Criterios aqui</li>
+                </ol>
+            </td>
+            <td>Prioridade</td>
+            <td>Requisito</td>
+        </tr>
+        <!-- Linha Termina aqui -->
+      <!-- Linha começa aqui -->
+        <tr>
+            <td>US06</td>
+            <td>Historia do usuario vem aqui</td>
+            <td>
+                <ol>
+                    <li>Criterios aqui</li>
+                    <li>Criterios aqui</li>
+                </ol>
+            </td>
+            <td>Prioridade</td>
+            <td>Requisito</td>
+        </tr>
+        <!-- Linha Termina aqui -->
+    </tbody>
+</table>
+
+<p>Tabela 3: História de Usuário</p>
+
+### 2. Referências
+
+Grão Direto. Disponível em: <https://www.graodireto.com.br/>. Acesso em: 23 abr. 2024.
+
+<a href="../README.md">VOLTAR INÍCIO</a>
