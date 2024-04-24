@@ -72,18 +72,18 @@
   <!-- Linha começa aqui -->
    <tr>
     <td>RF10</td>
-    <td>Seu Requisito vai aqui</td>
-    <td>A prioridade do requisito vai aqui</td>
-    <td> se o requisito for relancionado a outro coloque aqui se não, deixe com um traço (-) </td>
+    <td>As cotações de preços de commodities e as notícias do mercado devem ser atualizadas em tempo real para fornecer informações precisas e atualizadas aos usuários.</td>
+    <td>Alta</td>
+    <td> - </td>
   </tr>
   <!-- Linha termina aqui -->
   
   <!-- Linha começa aqui -->
    <tr>
     <td>RF11</td>
-    <td>Seu Requisito vai aqui</td>
-    <td>A prioridade do requisito vai aqui</td>
-    <td> se o requisito for relancionado a outro coloque aqui se não, deixe com um traço (-) </td>
+    <td>O aplicativo deve ter a capacidade de funcionar em modo offline, permitindo que os usuários acessem informações básicas, como cotações de preços salvas e notícias marcadas como favoritas, mesmo sem conexão à internet.</td>
+    <td>Média</td>
+    <td> - </td>
   </tr>
   <!-- Linha termina aqui -->
  
