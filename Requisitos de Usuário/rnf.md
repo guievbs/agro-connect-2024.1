@@ -56,20 +56,20 @@
    <!-- Lista Inicio -->
   <tr>
     <td>RF05</td>
-    <td>Descrição</td>
-    <td>Categoria</td>
-    <td>Prioridade</td>
-    <td>Relacionamnto</td>
+    <td>O aplicativo deve ser capaz de integrar-se facilmente com sistemas externos, como provedores de dados de mercado e serviços de notícias, para enriquecer as informações fornecidas aos usuários.</td>
+    <td>Produto/Eficiência</td>
+    <td>Alta</td>
+    <td>-</td>
   </tr>
   <!-- Lista Fim -->
 
  <!-- Lista Inicio -->
   <tr>
     <td>RF06</td>
-    <td>Descrição</td>
-    <td>Categoria</td>
-    <td>Prioridade</td>
-    <td>Relacionamnto</td>
+    <td>O aplicativo deve suportar diferentes idiomas e culturas, permitindo que os usuários personalizem suas preferências de idioma, formato de data e moeda.</td>
+    <td>Usabilidade</td>
+    <td>Alta</td>
+    <td>-</td>
   </tr>
   <!-- Lista Fim -->
 
