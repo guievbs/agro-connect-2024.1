@@ -45,15 +45,15 @@ A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
         <!-- Linha começa aqui -->
         <tr>
             <td>US03</td>
-            <td>Historia do usuario vem aqui</td>
+            <td>Como usuário, quero poder modificar minhas credênciais, para manter meus dados sempre atualizados.</td>
             <td>
                 <ol>
-                    <li>Criterios aqui</li>
-                    <li>Criterios aqui</li>
+                    <li>Os usuários devem poder customizar quaisquer credênciais caso queiram</li>
+                    <li>Os campos a ser modificados devem ser notificados e verificados no email dos usuários, para caso se arrependam no meio do processo.</li>
                 </ol>
             </td>
-            <td>Prioridade</td>
-            <td>Requisito</td>
+            <td>Média</td>
+            <td>RNF03</td>
         </tr>
         <!-- Linha Termina aqui -->
       <!-- Linha começa aqui -->
