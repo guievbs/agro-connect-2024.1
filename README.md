@@ -21,7 +21,7 @@
 
 - [Eduardo](https://github.com/eduzindejesus)  
 
-- [Celso](link_para_github)  
+- [Celso](https://github.com/Celsolf)  
 
 ## Descrição do Projeto
 Aplicativo agrícola que oferece uma
