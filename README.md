@@ -9,7 +9,7 @@
 
 - [Guilherme Sebastião](https://github.com/guievbs)  
 
-- [Robson](https://github.com/robsonldcarvalho)  
+- [Robson Carvalho](https://github.com/robsonldcarvalho)  
 
 - [Matheus Marinho](link_para_github)
  
