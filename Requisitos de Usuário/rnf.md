@@ -76,19 +76,19 @@
    <!-- Lista Inicio -->
   <tr>
     <td>RF07</td>
-    <td>Descrição</td>
-    <td>Categoria</td>
-    <td>Prioridade</td>
-    <td>Relacionamnto</td>
+    <td>O site/aplicativo deve garantir uma experiência de usuário consistente e responsiva, otimizada para diferentes dispositivos, tamanhos de tela e velocidades de conexão à internet</td>
+    <td>Usabilidade</td>
+    <td>Alta</td>
+    <td>-o</td>
   </tr>
   <!-- Lista Fim -->
 
    <!-- Lista Inicio -->
   <tr>
     <td>RF08</td>
-    <td>Descrição</td>
-    <td>Categoria</td>
-    <td>Prioridade</td>
+    <td>O site/aplicativo deve ser capaz de lidar com um aumento repentino no número de usuários e no volume de dados sem diminuir a velocidade ou ficar fora do ar</td>
+    <td>Eficiência</td>
+    <td>Alta</td>
     <td>Relacionamnto</td>
   </tr>
   <!-- Lista Fim -->
