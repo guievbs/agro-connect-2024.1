@@ -90,9 +90,17 @@
   <!-- Linha começa aqui -->
    <tr>
     <td>RF12</td>
-    <td>Seu Requisito vai aqui</td>
-    <td>A prioridade do requisito vai aqui</td>
-    <td> se o requisito for relancionado a outro coloque aqui se não, deixe com um traço (-) </td>
+    <td>Os usuários devem ter a capacidade de compartilhar facilmente cotações de preços e notícias do mercado agrícola em suas redes sociais ou por e-mail</td>
+    <td>Média</td>
+    <td>RF08</td>
+  </tr>
+  <!-- Linha termina aqui -->
+</table>
+<tr>
+    <td>RF13</td>
+    <td>O sistema deve permitir aos usuários visualizarem um histórico detalhado dos preços das commodities ao longo do tempo, incluindo gráficos e análises de tendências.</td>
+    <td>Alta</td>
+    <td>-</td>
   </tr>
   <!-- Linha termina aqui -->
 </table>
