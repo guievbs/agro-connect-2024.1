@@ -59,15 +59,15 @@ A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
       <!-- Linha começa aqui -->
         <tr>
             <td>US04</td>
-            <td>Historia do usuario vem aqui</td>
+            <td> Como usuário, gostaria de ter a opção de acessar o sistema agrícola em modo noturno, com um esquema de cores de baixa luminosidade, para reduzir a fadiga ocular durante o uso noturno.</td>
             <td>
                 <ol>
-                    <li>Criterios aqui</li>
-                    <li>Criterios aqui</li>
+                    <li>Deve haver uma opção fácil de alternar entre os modos claro e escuro no sistema.</li>
+                    <li>O modo noturno deve ser agradável visualmente e fácil de ler em ambientes com pouca luz.</li>
                 </ol>
             </td>
-            <td>Prioridade</td>
-            <td>Requisito</td>
+            <td>Alta</td>
+            <td>RNF04</td>
         </tr>
         <!-- Linha Termina aqui -->
       <!-- Linha começa aqui -->
