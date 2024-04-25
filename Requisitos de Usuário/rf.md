@@ -95,8 +95,9 @@
     <td>RF08</td>
   </tr>
   <!-- Linha termina aqui -->
-</table>
-<tr>
+
+ <!-- Linha começa aqui -->
+   <tr>
     <td>RF13</td>
     <td>O sistema deve permitir aos usuários visualizarem um histórico detalhado dos preços das commodities ao longo do tempo, incluindo gráficos e análises de tendências.</td>
     <td>Alta</td>
@@ -104,8 +105,7 @@
   </tr>
   <!-- Linha termina aqui -->
 </table>
-
-
+  
 <div style="text-align: center">
 <p>Tabela 1: Requisitos Funcionais</p>
 </div>
