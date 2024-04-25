@@ -31,7 +31,7 @@ A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
         <!-- Linha começa aqui -->
         <tr>
             <td>US02</td>
-            <td>Como usuário, quero ser capaz de criar mimnha conta de forma rápida e simples</td>
+            <td>Como usuário, quero ser capaz de criar minha conta de forma rápida e simples</td>
             <td>
                 <ol>
                     <li>Os usuários devem ter a opção de criar uma conta ou fazer login utilizando suas contas nas redes sociais mais utilizadas, (i.e: Google, Linkedin e Instagram)</li>
