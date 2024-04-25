@@ -24,7 +24,7 @@
   <tr>
     <td>RF03</td>
     <td>O usuário deve poder acessar sua conta</td>
-    <td>Baixa</td>
+    <td>Alta</td>
     <td>-</td>
   </tr>
   <tr>
