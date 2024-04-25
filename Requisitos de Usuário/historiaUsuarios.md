@@ -67,7 +67,7 @@ A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
                 </ol>
             </td>
             <td>Alta</td>
-            <td>RNF04</td>
+            <td>RNF09</td>
         </tr>
         <!-- Linha Termina aqui -->
       <!-- Linha começa aqui -->
