@@ -39,7 +39,6 @@
     <td>Alta</td>
     <td>RF04</td>
   </tr>
-  <tr>
    <tr>
     <td>RF06</td>
     <td>O aplicativo deve notificar os usuários quando o preço de uma commodity atingir um determinado valor pré-definido.</td>
