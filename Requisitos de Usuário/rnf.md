@@ -79,7 +79,7 @@
     <td>O site/aplicativo deve garantir uma experiência de usuário consistente e responsiva, otimizada para diferentes dispositivos, tamanhos de tela e velocidades de conexão à internet</td>
     <td>Usabilidade</td>
     <td>Alta</td>
-    <td>-o</td>
+    <td>-</td>
   </tr>
   <!-- Lista Fim -->
 
@@ -89,7 +89,7 @@
     <td>O site/aplicativo deve ser capaz de lidar com um aumento repentino no número de usuários e no volume de dados sem diminuir a velocidade ou ficar fora do ar</td>
     <td>Eficiência</td>
     <td>Alta</td>
-    <td>Relacionamnto</td>
+    <td>-</td>
   </tr>
   <!-- Lista Fim -->
 
