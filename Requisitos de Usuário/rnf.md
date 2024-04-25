@@ -96,10 +96,10 @@
    <!-- Lista Inicio -->
   <tr>
     <td>RF09</td>
-    <td>Descrição</td>
-    <td>Categoria</td>
-    <td>Prioridade</td>
-    <td>Relacionamnto</td>
+    <td>O site/aplicativo deve fornecer uma botão de iluminação noturna da página, facilitando o uso no periódo noturno</td>
+    <td>Usabilidade</td>
+    <td>Média</td>
+    <td>-</td>
   </tr>
   <!-- Lista Fim -->
 
