@@ -112,6 +112,25 @@
     <td>RNF06</td>
   </tr>
   <!-- Lista Fim -->
+  <!-- Lista Inicio -->
+  <tr>
+    <td>RNF11</td>
+    <td>O aplicativo deve permitir a personalização da interface do usuário, incluindo a capacidade de alterar o layout das telas e a configuração dos widgets de acordo com as preferências do usuário.</td>
+    <td>Usabilidade</td>
+    <td>Baixa</td>
+    <td>-</td>
+  </tr>
+  <!-- Lista Fim -->
+
+   <!-- Lista Inicio -->
+  <tr>
+    <td>RNF12</td>
+    <td> O aplicativo deve ser capaz de fornecer relatórios detalhados e análises preditivas baseadas nos dados históricos de preços e notícias do mercado.</td>
+    <td>Eficiência</td>
+    <td>Média</td>
+    <td>-</td>
+  </tr>
+  <!-- Lista Fim -->
 </table>
 
 
