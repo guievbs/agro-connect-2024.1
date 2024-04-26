@@ -96,7 +96,7 @@
    <!-- Lista Inicio -->
   <tr>
     <td>RNF09</td>
-    <td>O aplicativo deve fornecer uma botão de iluminação noturna da página, facilitando o uso no periódo noturno</td>
+    <td>O aplicativo deve fornecer um botão de iluminação noturna da página, facilitando o uso no período noturno</td>
     <td>Usabilidade</td>
     <td>Média</td>
     <td>-</td>
