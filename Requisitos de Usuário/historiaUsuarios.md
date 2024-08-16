@@ -73,15 +73,15 @@ A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
       <!-- Linha começa aqui -->
         <tr>
             <td>US05</td>
-            <td>Historia do usuario vem aqui</td>
+            <td>Como usuário, quero ver as notícias mais recentes primeiro, estando sempre atualizado.</td>
             <td>
                 <ol>
-                    <li>Criterios aqui</li>
-                    <li>Criterios aqui</li>
+                    <li>Todas as informações devem ser mostradas por data decrescente, as mais novas primeiro.</li>
+                    <li>O sistema deve estar em constante atualização, sempre tendo informações mais atualizadas.</li>
                 </ol>
             </td>
-            <td>Prioridade</td>
-            <td>Requisito</td>
+            <td>Alta</td>
+            <td>RF07, RF08, RF10</td>
         </tr>
         <!-- Linha Termina aqui -->
       <!-- Linha começa aqui -->
