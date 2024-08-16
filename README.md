@@ -17,11 +17,11 @@
 
 - [João Buczora](link_para_github)   *(Trancou a faculdade)*
 
-- [Floriano](https://github.com/gabrielflorianoo)
+- [Gabriel Floriano](https://github.com/gabrielflorianoo)
 
-- [Eduardo](https://github.com/eduzindejesus)  
+- [Eduardo de Jesus](https://github.com/eduzindejesus)  
 
-- [Celso](https://github.com/Celsolf)  
+- [Celso Lopes](https://github.com/Celsolf)  
 
 ## Descrição do Projeto
 Aplicativo agrícola que oferece uma
