@@ -1,7 +1,6 @@
 # AgroConnect
-
+![](agro_connect_logo.png)
 ## Informações Gerais
-
 - **Disciplina**: AS63C - Desenvolvimento Ágil
 - **Ano/Semestre**: 2024/1
 
