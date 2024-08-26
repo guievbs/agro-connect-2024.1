@@ -87,15 +87,15 @@ A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
       <!-- Linha começa aqui -->
         <tr>
             <td>US06</td>
-            <td>Historia do usuario vem aqui</td>
+            <td>Como usuário, quero receber alertas de commodities específicas que escolhi para estar sempre informado</td>
             <td>
                 <ol>
-                    <li>Criterios aqui</li>
-                    <li>Criterios aqui</li>
+                    <li>Novas informações sobre as commodities escolhidas devem ser informadas ao usuário</li>
+                    <li>Alertas sobre metas de preços alcançados</li>
                 </ol>
             </td>
-            <td>Prioridade</td>
-            <td>Requisito</td>
+            <td>Alta</td>
+            <td>RF06, RF07</td>
         </tr>
         <!-- Linha Termina aqui -->
     </tbody>
