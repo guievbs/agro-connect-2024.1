@@ -1,0 +1,87 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+    font-size: 2.5em;
+}
+
+p {
+    margin: 10px 0;
+}
+
+main {
+    padding: 20px;
+}
+
+.staff {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.staff-member {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    width: 250px;
+}
+
+.staff-member img {
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+    object-fit: cover;
+}
+
+.staff-member h2 {
+    margin-top: 10px;
+    font-size: 1.5em;
+}
+
+.staff-member p {
+    margin: 5px 0;
+    color: #555;
+}
+
+.social-links {
+    margin-top: 15px;
+}
+
+.social-icon {
+    margin: 0 10px;
+    color: #4CAF50;
+    font-size: 1.5em;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+.social-icon:hover {
+    color: #333;
+}
+
+footer {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
