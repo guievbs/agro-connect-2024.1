@@ -1,109 +1,164 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
-    <head>
-        <meta charset="UTF-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>Créditos - AgroConnect</title>
-        <link
-            rel="stylesheet"
-            href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css"
-        />
-        <style>
-            .hero.is-primary {
-                background-color: #00d1b2;
-            }
-            .hero-body {
-                display: flex;
-                align-items: center;
-            }
-            .navbar {
-                display: flex;
-                align-items: center;
-            }
-            .section {
-                padding: 2rem 1.5rem;
-            }
-            .image {
-                max-width: 200px;
-                margin-bottom: 1.5rem;
-            }
-            .content {
-                margin-top: 1.5rem;
-            }
-        </style>
-    </head>
-    <body>
-        <!-- Hero Section -->
-        <section class="hero is-primary is-bold">
-            <div class="hero-body">
-                <div class="container">
-                    <h1 class="title">AgroConnect</h1>
-                </div>
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Créditos - AgroConnect</title>
+    <link
+        rel="stylesheet"
+        href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css"
+    />
+    <style>
+        body {
+            background-color: #f5f5f5; /* Fundo cinza claro para o corpo */
+        }
 
-                <nav class="navbar">
-                    <div class="navbar-menu">
-                        <div class="navbar-end">
-                            <a href="/main.html"
-                                ><button class="button is-danger">
-                                    Retornar
-                                </button></a
-                            >
-                        </div>
-                    </div>
-                </nav>
-            </div>
-        </section>
+        .hero.is-primary {
+            background-color: #00d1b2;
+            padding: 0.5rem 0; /* Diminuir o padding vertical da hero section */
+        }
 
-        <!-- Logo -->
-        <div class="has-text-centered p-4">
-            <figure class="image is-256x256">
-                <img src="agro_connect_logo.png" alt="AgroConnect Logo" />
-            </figure>
-        </div>
+        .hero-body {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            text-align: center;
+            padding: 0.5rem 0; /* Diminuir o padding interno da hero-body */
+        }
 
-        <!-- Main Content -->
-        <section class="section">
+        .navbar {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-bottom: 0.5rem; /* Diminuir o espaçamento inferior da navbar */
+        }
+
+        .section {
+            padding: 2rem 1.5rem;
+        }
+
+        .image {
+            max-width: 200px;
+            margin-bottom: 1.5rem;
+        }
+
+        .content {
+            margin-top: 1.5rem;
+        }
+
+        .content ul {
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+
+        .content ul li {
+            margin: 0.5rem;
+            padding: 1rem;
+            background-color: #ffffff;
+            border: 2px solid #000000; /* Contorno preto */
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            text-align: center;
+        }
+
+        .content ul li:hover {
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Elevação ao passar o mouse */
+            transform: translateY(-5px); /* Levanta o cartão */
+        }
+
+        .content ul li a {
+            font-size: 1.2rem;
+            color: #00d1b2;
+            text-decoration: none;
+            transition: color 0.3s ease, transform 0.3s ease;
+        }
+
+        .content ul li a:hover {
+            color: #009d91;
+            transform: scale(1.05);
+        }
+
+        .button.is-danger {
+            background-color: #ff3860;
+            border-color: transparent;
+            color: #fff;
+            transition: background-color 0.3s ease;
+            padding: 0.5rem 1rem; /* Reduzir o padding do botão */
+        }
+
+        .button.is-danger:hover {
+            background-color: #ff2d4a;
+        }
+    </style>
+</head>
+<body>
+    <!-- Hero Section -->
+    <section class="hero is-primary is-bold">
+        <div class="hero-body">
             <div class="container">
-                <!-- Integrantes do Grupo -->
-                <div class="content">
-                    <h2 class="subtitle">Integrantes do Grupo</h2>
-                    <ul>
-                        <li>
-                            <a href="https://github.com/guievbs"
-                                >Guilherme Sebastião</a
-                            >
-                        </li>
-                        <li>
-                            <a href="https://github.com/robsonldcarvalho"
-                                >Robson Carvalho</a
-                            >
-                        </li>
-                        <li><a href="link_para_github">Matheus Marinho</a></li>
-                        <li>
-                            <a href="https://github.com/DiegoOtani"
-                                >Diego Otani</a
-                            >
-                        </li>
-                        <li>
-                            <a href="link_para_github">João Buczora</a>
-                            <em>(Trancou a faculdade)</em>
-                        </li>
-                        <li>
-                            <a href="https://github.com/gabrielflorianoo"
-                                >Gabriel Floriano</a
-                            >
-                        </li>
-                        <li>
-                            <a href="https://github.com/eduzindejesus"
-                                >Eduardo de Jesus</a
-                            >
-                        </li>
-                        <li>
-                            <a href="https://github.com/Celsolf">Celso Lopes</a>
-                        </li>
-                    </ul>
-                </div>
+                <h1 class="title">AgroConnect</h1>
             </div>
-        </section>
-    </body>
+            <nav class="navbar">
+                <div class="navbar-menu">
+                    <div class="navbar-end">
+                        <!-- Botão de Retornar -->
+                        <a href="main.html" class="button is-danger">
+                            Retornar
+                        </a>
+                    </div>
+                </div>
+            </nav>
+        </div>
+    </section>
+
+    <!-- Logo -->
+    <div class="has-text-centered p-4">
+        <figure class="image is-256x256">
+            <img src="agro_connect_logo.png" alt="AgroConnect Logo" />
+        </figure>
+    </div>
+
+    <!-- Main Content -->
+    <section class="section">
+        <div class="container">
+            <!-- Integrantes do Grupo -->
+            <div class="content">
+                <h2 class="subtitle">Integrantes do Grupo</h2>
+                <ul>
+                    <li>
+                        <a href="https://github.com/guievbs" target="_blank">Guilherme Sebastião</a>
+                    </li>
+                    <li>
+                        <a href="https://github.com/robsonldcarvalho" target="_blank">Robson Carvalho</a>
+                    </li>
+                    <li>
+                        <a href="link_para_github" target="_blank">Matheus Marinho</a>
+                    </li>
+                    <li>
+                        <a href="https://github.com/DiegoOtani" target="_blank">Diego Otani</a>
+                    </li>
+                    <li>
+                        <a href="link_para_github" target="_blank">João Buczora</a>
+                        <em>(Trancou a faculdade)</em>
+                    </li>
+                    <li>
+                        <a href="https://github.com/gabrielflorianoo" target="_blank">Gabriel Floriano</a>
+                    </li>
+                    <li>
+                        <a href="https://github.com/eduzindejesus" target="_blank">Eduardo de Jesus</a>
+                    </li>
+                    <li>
+                        <a href="https://github.com/Celsolf" target="_blank">Celso Lopes</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </section>
+</body>
 </html>

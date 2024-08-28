@@ -5,6 +5,42 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Cotações Agro</title>
     <link rel="stylesheet" href="styles.css">
+    <style>
+        /* Estilos adicionais para os botões */
+        .button-container {
+            display: flex;
+            justify-content: center;
+            margin-top: 1.5rem;
+        }
+
+        .button {
+            padding: 0.75rem 1.5rem;
+            border-radius: 5px;
+            font-size: 1rem;
+            color: #fff;
+            text-decoration: none;
+            display: inline-block;
+            transition: background-color 0.3s ease, transform 0.3s ease;
+        }
+
+        .button.is-primary {
+            background-color: #00d1b2;
+        }
+
+        .button.is-primary:hover {
+            background-color: #00b89c;
+            transform: scale(1.05);
+        }
+
+        .button.is-info {
+            background-color: #209cee;
+        }
+
+        .button.is-info:hover {
+            background-color: #1a7fcd;
+            transform: scale(1.05);
+        }
+    </style>
 </head>
 <body>
     <header>
@@ -24,32 +60,38 @@
                 </thead>
                 <tbody>
                     <tr>
-                        <td>Soja</td>
-                        <td>R$ 130,00</td>
+                        <td>Soya</td>
+                        <td>R$ 1500,00</td>
                         <td>+2.5%</td>
                     </tr>
                     <tr>
                         <td>Milho</td>
-                        <td>R$ 85,00</td>
+                        <td>R$ 800,00</td>
                         <td>-1.2%</td>
                     </tr>
                     <tr>
                         <td>Trigo</td>
-                        <td>R$ 100,00</td>
+                        <td>R$ 1200,00</td>
                         <td>+0.8%</td>
                     </tr>
                     <tr>
                         <td>Arroz</td>
-                        <td>R$ 140,00</td>
+                        <td>R$ 1000,00</td>
                         <td>-0.5%</td>
                     </tr>
                 </tbody>
             </table>
         </section>
+
+        <!-- Botões -->
+        <div class="button-container">
+            <a href="main.html" class="button is-primary">Retornar</a>
+            <a href="https://www.investing.com" class="button is-info" target="_blank">Visitar Bolsa de Chicago</a>
+        </div>
     </main>
 
     <footer>
-        <p>&copy; 2024 Cotações Agro. Todos os direitos reservados.</p>
+        <p>&copy; 2024 Cotações Agro. Todos os direitos reservados.◙</p>
     </footer>
 </body>
 </html>
